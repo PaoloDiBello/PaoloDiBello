@@ -1,21 +1,42 @@
 <p>
-  <a href="https://github.com/PaoloDiBello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F768&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Paolo+Di+Bello+%F0%9F%91%8B;Frontend+Developer+%26+Polyglot+%F0%9F%A4%96;React+%C2%B7+React+Native+%C2%B7+Node" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,36,24,6&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Paolo%20Di%20Bello&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="header"/>
 </p>
 
-<p>
-  <a href="https://github.com/PaoloDiBello">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="Profile views"/>
-</p>
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/PaoloDiBello.png" width="210" alt="Paolo Di Bello" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,255,150,.35);"/>
+      <br/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330" alt="coding"/>
+    </td>
+    <td width="60%">
+      <p>
+        <a href="https://github.com/PaoloDiBello">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=900&color=00E680&center=false&vCenter=true&width=520&lines=Frontend+Developer+%F0%9F%9A%80;React+%C2%B7+React+Native+%C2%B7+Node;Polyglot+%F0%9F%96%96%EF%B8%8F;Let's+build+something+great+%E2%9C%A8" alt="typing"/>
+        </a>
+      </p>
+      <p>
+        <strong>💻 Frontend Developer</strong> &amp; <strong>🌍 Polyglot</strong> — I love crafting
+        fast, beautiful web &amp; mobile experiences with <strong>React</strong> and
+        <strong>React Native</strong>, and turning ideas into products people enjoy.
+      </p>
+      <br/>
+      <p>
+        <a href="https://github.com/PaoloDiBello">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+        </a>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="profile views"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
