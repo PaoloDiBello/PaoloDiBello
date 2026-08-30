@@ -1,31 +1,26 @@
-<h1 align="center" style="color:#00E680; border-bottom:none; font-size:44px;">
-  &lt;Paolo Di Bello /&gt;
-</h1>
-
-<p align="center">
-  <a href="https://github.com/PaoloDiBello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00E680&center=true&vCenter=true&width=620&lines=Frontend+Developer+%F0%9F%9A%80;React+%C2%B7+React+Native+%C2%B7+Node;Polyglot+%F0%9F%96%96%EF%B8%8F;Turning+ideas+into+products+people+love+%E2%9C%A8" alt="typing"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="150" alt="magic orb" style="border-radius:50%; border:3px solid rgba(0,230,128,.6); box-shadow:0 0 24px rgba(0,230,128,.5);"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/PaoloDiBello">
-    <img src="https://img.shields.io/badge/-GitHub-181D26?style=for-the-badge&logo=github&logoColor=00E680" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-181D26?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-181D26?style=for-the-badge&logo=react&logoColor=00D4FF" alt="Portfolio"/>
-  </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=PaoloDiBello.PaoloDiBello&label=Visitors&countColor=%2300E680&labelColor=%23181D26&badgeStyle=for-the-badge" alt="profile views"/>
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="middle" align="center">
+      <a href="https://github.com/PaoloDiBello">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2600&pause=700&color=00E680&center=true&vCenter=true&multiline=false&width=1040&height=80&lines=HI%2C+I%27M+PAOLO+DI+BELLO+%F0%9F%91%8B;FRONTEND+DEVELOPER+%E2%9C%A8;REACT+%C2%B7+REACT+NATIVE+%C2%B7+NODE;TURNING+IDEAS+INTO+PRODUCTS+PEOPLE+LOVE+%E2%9C%A8" alt="typewriter"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/PaoloDiBello">
+        <img src="https://img.shields.io/badge/-GitHub-181D26?style=for-the-badge&logo=github&logoColor=00E680" alt="GitHub"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-LinkedIn-181D26?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-Portfolio-181D26?style=for-the-badge&logo=react&logoColor=00D4FF" alt="Portfolio"/>
+      </a>
+      <img src="https://api.visitorbadge.io/api/visitors?path=PaoloDiBello.PaoloDiBello&label=Visitors&countColor=%2300E680&labelColor=%23181D26&badgeStyle=for-the-badge" alt="profile views"/>
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="magic orb" style="border-radius:50%; border:4px solid rgba(0,230,128,.65); box-shadow:0 0 30px rgba(0,230,128,.55), 0 0 70px rgba(0,230,128,.25);"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
