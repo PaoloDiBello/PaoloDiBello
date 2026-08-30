@@ -1,17 +1,25 @@
-<!--
-  Aperture Analytics: Frontend Developer & Polyglot profile readme.
-  Keeps the two stats cards the user wanted; rest of the layout was
-  cleaned up, badges grouped, and a broken Swagger badge fixed.
--->
 <p>
   <a href="https://github.com/PaoloDiBello">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F768&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Paolo+Di+Bello+%F0%9F%91%8B;Frontend+Developer+%26+Polyglot+%F0%9F%A4%96;React+%C2%B7+React+Native+%C2%B7+Node" alt="Typing SVG" />
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/PaoloDiBello">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="Profile views"/>
+</p>
+
 ---
 
-<h2>🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 
 <p>
   <strong>Languages</strong>
@@ -107,15 +115,25 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PaoloDiBello&layout=compact&show_icons=true&theme=radical&hide_border=true" alt="Top Langs"/>
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api?username=PaoloDiBello&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Paolo's GitHub stats"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=PaoloDiBello&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+---
+
+## 🏆 Achievements
+
+<p>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=PaoloDiBello&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div>
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
-</div>
+</p>
 
 ---
 
@@ -127,6 +145,6 @@
 
 <br/>
 
-<div>
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
+</p>
