@@ -4,11 +4,8 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://github.com/PaoloDiBello.png" width="210" alt="Paolo Di Bello" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,255,150,.35);"/>
-      <br/>
-      <br/>
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330" alt="coding"/>
+    <td width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330" alt="magic orb" style="border-radius: 28px; border: 4px solid rgba(0,255,150,.55); box-shadow: 0 0 28px rgba(0,255,150,.45), 0 0 60px rgba(0,255,150,.2);"/>
     </td>
     <td width="60%">
       <p>
@@ -32,7 +29,7 @@
         <a href="#">
           <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
         </a>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="profile views"/>
+        <img src="https://api.visitorbadge.io/api/visitors?path=PaoloDiBello.PaoloDiBello&label=Visitors&countColor=%23263759&labelColor=%23000000&badgeStyle=for-the-badge" alt="profile views"/>
       </p>
     </td>
   </tr>
