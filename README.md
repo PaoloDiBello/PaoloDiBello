@@ -137,6 +137,29 @@
   <img src="https://streak-stats.demolab.com?user=PaoloDiBello&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaoloDiBello&theme=radical" alt="Contribution graph" width="100%"/>
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaoloDiBello&theme=radical" alt="Repos per language"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaoloDiBello&theme=radical" alt="Most commit language"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaoloDiBello&theme=radical" alt="Stats"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaoloDiBello&theme=radical&utcOffset=8" alt="Productive time"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🏆 Achievements
