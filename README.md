@@ -38,7 +38,7 @@
 ---
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,36,24,6&height=150&section=header&text=%20Tech%20Stack&fontSize=44&fontAlign=70&fontAlignY=24&animation=twinkling&rotate=-10" width="100%" alt="tech stack divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,36,24,6&height=140&section=header&text=Tech%20Stack&fontSize=44&fontAlignY=40&animation=twinkling" width="100%" alt="tech stack divider"/>
 </p>
 
 ## 🧰 Tech Stack
@@ -132,7 +132,7 @@
 ---
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,36,24,6&height=150&section=header&text=%20GitHub%20Stats&fontSize=44&fontAlign=70&fontAlignY=24&animation=twinkling&rotate=-10" width="100%" alt="stats divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,36,24,6&height=140&section=header&text=GitHub%20Stats&fontSize=44&fontAlignY=40&animation=twinkling" width="100%" alt="stats divider"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -195,7 +195,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=24,36,24,6&height=140&section=header&text=Thanks%20for%20visiting%20%F0%9F%A4%97&fontSize=38&fontAlign=50&fontAlignY=26&animation=twinkling" width="100%" alt="thanks divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,36,24,6&height=140&section=header&text=Thanks%20for%20visiting%20%F0%9F%A4%97&fontSize=38&fontAlignY=46&animation=twinkling" width="100%" alt="thanks divider"/>
 </p>
 
 <p>
