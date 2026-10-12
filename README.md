@@ -23,7 +23,7 @@
       <img src="https://api.visitorbadge.io/api/visitors?path=PaoloDiBello.PaoloDiBello&label=Visitors&countColor=%2300FF9C&labelColor=%230F1520&badgeStyle=for-the-badge" alt="profile views"/>
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="neon orb" style="border-radius:50%; border:4px solid rgba(0,255,156,.7); box-shadow:0 0 30px rgba(0,255,156,.6), 0 0 80px rgba(0,229,255,.3), 0 0 120px rgba(255,46,136,.25);"/>
+      <img width="784" height="1168" alt="PLJkj" src="https://github.com/user-attachments/assets/7c8b42da-1264-4df3-afae-6f3f2c110995" width="300" alt="neon orb" style="border-radius:50%; border:4px solid rgba(0,255,156,.7); box-shadow:0 0 30px rgba(0,255,156,.6), 0 0 80px rgba(0,229,255,.3), 0 0 120px rgba(255,46,136,.25);" />
     </td>
   </tr>
 </table>
